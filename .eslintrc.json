@@ -1,0 +1,9 @@
+{
+	"root": true,
+  "extends": ["@react-native-community"],
+  "rules": {
+    "no-undef": "error",
+    "no-unused-vars": "warn",
+    "react-hooks/exhaustive-deps": "off"
+  }
+}
